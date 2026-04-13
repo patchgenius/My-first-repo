@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Janice, and I am currently learning Git and GitHub at ALX. I am interested in technology and building digital skills that will help me grow in the tech industry.
+
+I am excited to understand version control and how developers collaborate on real projects.
